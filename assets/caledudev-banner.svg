@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title description">
+  <title id="title">CaleduDev — Carlos Plasencia</title>
+  <desc id="description">Senior Full-Stack Developer and Applied AI. A blue developer workspace with interface, API and product layers.</desc>
+  <rect width="1280" height="360" rx="16" fill="#0b1220"/>
+  <rect x="1" y="1" width="1278" height="358" rx="15" fill="none" stroke="#2c3b55" stroke-width="2"/>
+  <path d="M0 52H1280" stroke="#2c3b55"/>
+  <circle cx="28" cy="26" r="5" fill="#52627c"/>
+  <circle cx="46" cy="26" r="5" fill="#52627c"/>
+  <circle cx="64" cy="26" r="5" fill="#6b9dff"/>
+  <g font-family="ui-monospace, SFMono-Regular, Consolas, monospace">
+    <text x="96" y="32" font-size="17" fill="#aab8cf">caledu / workspace</text>
+    <text x="1150" y="32" font-size="16" fill="#8a9cb8">profile.md</text>
+    <text x="48" y="104" font-size="17" fill="#87acff">// engineer. builder. human.</text>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="46" y="190" font-size="78" font-weight="700" letter-spacing="-3" fill="#f0f5ff">Caledu<tspan fill="#79a6ff">Dev</tspan><tspan fill="#79a6ff">_</tspan></text>
+    <text x="50" y="234" font-size="28" fill="#dce6f7">Carlos Plasencia</text>
+    <text x="50" y="280" font-size="24" fill="#b4c2da">Senior Full-Stack Developer · Applied AI</text>
+  </g>
+  <text x="50" y="326" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="18" fill="#87acff">carlosplasencia.dev</text>
+  <g fill="none" stroke="#32578e" stroke-width="2">
+    <path d="M900 112L1188 166L1060 268L772 214Z" fill="#101f36"/>
+    <path d="M900 144L1188 198L1060 300L772 246Z" opacity=".55"/>
+    <path d="M900 176L1188 230L1060 332L772 278Z" opacity=".3"/>
+    <path d="M835 198L900 146M1058 235L1133 175" stroke="#79a6ff"/>
+  </g>
+  <g font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="19" fill="#9abaff">
+    <text x="938" y="191">&lt;/&gt;</text>
+    <text x="857" y="94" font-size="14" letter-spacing="3" fill="#aab8cf">INTERFACE / API / PRODUCT</text>
+  </g>
+</svg>
